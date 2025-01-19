@@ -6,13 +6,17 @@ Hi, I’m Daniel! With over 15 years of experience in statistics and more than 4
 
 ## Education ##
 
+
+
 ## Certificates ##
+
+MIT Professional Education (completed in April 2024) 
 
 ## COntact Information ##
 
  📫 Reach me via email: danielfmolefe@gmail.com
 
-## Fun fact:n ##
+## Fun fact: ##
 
 Enjoys hiking
  
