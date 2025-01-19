@@ -9,8 +9,9 @@ Hi, I’m Daniel! With over 15 years of experience in statistics and more than 4
 ## R Projects ##
 
 
-
 ## SQL Projects ##
+
+- Seattle AirBnB
 
 ## Education ##
 
