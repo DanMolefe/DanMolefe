@@ -15,6 +15,9 @@ MIT Professional Education (completed in April 2024)
 ## COntact Information ##
 
  📫 Reach me via email: danielfmolefe@gmail.com
+ 
+ 📫 Reach me via LinkedIn: https://www.linkedin.com/in/dmolefe/
+ 
 
 ## Fun fact: ##
 
