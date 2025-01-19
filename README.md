@@ -4,10 +4,15 @@ Hi, I’m Daniel! With over 15 years of experience in statistics and more than 4
 
 ## Portfolio Projects ##
 
-- 👋 Hi, I’m @DanMolefe
-- 👀 I’m interested in opensource software
-- 📫 Reach me via email: danielfmolefe@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Enjoys hiking
+## Education ##
 
+## Certificates ##
 
+## COntact Information ##
+
+ 📫 Reach me via email: danielfmolefe@gmail.com
+
+## Fun fact:n ##
+
+Enjoys hiking
+ 
