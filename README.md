@@ -1,4 +1,4 @@
-## Daniel Molefe
+# Daniel Molefe, Ph.D.
 
 
 
