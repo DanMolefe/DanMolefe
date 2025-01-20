@@ -4,7 +4,7 @@ Hi, I’m Daniel! With over 15 years of experience in statistics and more than 4
 
 ## Python Projects ##
 
-- Loan Default Prediction
+- Loan Default Prediction (https://github.com/DanMolefe/Loan_prediction)
 
 ## Certificates ##
 
