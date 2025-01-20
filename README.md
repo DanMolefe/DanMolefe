@@ -6,15 +6,6 @@ Hi, I’m Daniel! With over 15 years of experience in statistics and more than 4
 
 - Loan Default Prediction
 
-## R Projects ##
-
-
-## SQL Projects ##
-
-- Seattle AirBnB
-
-## Education ##
-
 ## Certificates ##
 
 MIT Professional Education (completed in April 2024) 
