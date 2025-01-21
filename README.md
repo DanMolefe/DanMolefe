@@ -10,7 +10,7 @@ Hi, I’m Daniel! With over 15 years of experience in statistics and more than 4
 
 MIT Professional Education (completed in April 2024) 
 
-## COntact Information ##
+## Contact Information ##
 
  📫 Reach me via email: danielfmolefe@gmail.com
  
