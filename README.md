@@ -5,7 +5,7 @@ Hi, I’m Daniel! With over 15 years of experience in statistics and more than 4
 ## Python Projects ##
 
 - Loan Default Prediction (https://github.com/DanMolefe/Loan_prediction)
-- Noninferiority_equivalence (https://github.com/DanMolefe/DanMolefe)
+- Noninferiority_equivalence (https://github.com/DanMolefe/Design-Issues-in-Noninferiority-Equivalance-Trials)
 
 ## Certificates ##
 
