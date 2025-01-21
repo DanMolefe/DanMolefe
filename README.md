@@ -1,6 +1,6 @@
 # Daniel Molefe, Ph.D. #
 
-Hi, I’m Daniel! With over 15 years of experience in statistics and more than 4 years of applying Data Science techniques, I’ve helped drive significant revenue growth for my previous employers. By leveraging advanced statistical methods and tools such as Python, R, SAS, and SPSS, I’ve consistently delivered impactful results. My expertise includes managing large, complex datasets while ensuring data integrity and accessibility. Additionally, I excel at translating complex data insights into clear, actionable recommendations for both internal teams and external stakeholders.
+Hi, I’m Daniel! With over 15 years of experience in statistics and more than 4 years specializing in Data Science, I have successfully driven substantial revenue growth for my previous employers. By leveraging advanced statistical methods and tools such as Python, R, SAS, and SPSS, I consistently deliver impactful, data-driven results. My expertise spans managing large, complex datasets while ensuring data integrity, accessibility, and scalability. I also excel at transforming intricate data insights into clear, actionable recommendations for both internal teams and external stakeholders. To showcase my expertise in Python and Data Science, please visit my GitHub profile for relevant projects and examples.
 
 ## Python Projects ##
 
