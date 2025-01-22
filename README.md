@@ -10,7 +10,8 @@ Hi, I’m Daniel! With over 15 years of experience in statistics and more than 4
 
 ## Certificates ##
 
-MIT Professional Education (completed in April 2024) 
+- MIT Professional Education (completed in April 2024) 
+- Introduction to Artificial Intelligence on Cloud [https://www.mygreatlearning.com/certificate/TRNDCZXC]
 
 ## Contact Information ##
 
