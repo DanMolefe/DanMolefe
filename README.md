@@ -1,7 +1,7 @@
 **Daniel Molefe, Ph.D.**
 -----------------------
 
-Hi, I’m Daniel! I am a results-driven professional with over 15 years of experience in data management, statistical analysis, and analytical plan development. Expert in applying advanced statistical and machine learning techniques using Python and R to derive actionable insights from complex datasets. Proven ability to manage large-scale data projects while ensuring data integrity, accessibility, and quality. Skilled in developing data-driven solutions, visualizing insights, and presenting findings to inform business and strategic decision-making. Adept at working in fast-paced environments, both independently and within cross-functional teams. Passionate about leveraging data science to drive innovation and solve business challenges.
+A results-driven professional with over 15 years of experience in data management, statistical analysis, and analytical plan development. Expert in applying advanced statistical and machine learning techniques using Python and R to derive actionable insights from complex datasets. Proven ability to manage large-scale data projects while ensuring data integrity, accessibility, and quality. Skilled in developing data-driven solutions, visualizing insights, and presenting findings to inform business and strategic decision-making. Adept at working in fast-paced environments, both independently and within cross-functional teams. Passionate about leveraging data science to drive innovation and solve business challenges.
 
 ## Python Projects ##
 
