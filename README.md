@@ -6,7 +6,9 @@ A results-driven professional with over 15 years of experience in data managemen
 ## Python Projects ##
 
 - Loan Default Prediction (https://github.com/DanMolefe/Loan_prediction)
+  
 - Noninferiority_equivalence (https://github.com/DanMolefe/Design-Issues-in-Noninferiority-Equivalance-Trials)
+  
 - Rain fall prediction (https://github.com/DanMolefe/Rain-fall-prediction?tab=readme-ov-file#rain-fall-prediction)
   
 ## Certificates ##
