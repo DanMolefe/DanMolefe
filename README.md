@@ -10,7 +10,8 @@ A results-driven professional with over 15 years of experience in data managemen
 - Noninferiority_equivalence (https://github.com/DanMolefe/Design-Issues-in-Noninferiority-Equivalance-Trials)
   
 - Rain fall prediction (https://github.com/DanMolefe/Rain-fall-prediction?tab=readme-ov-file#rain-fall-prediction)
-  
+
+- Tweets sentiment analysis (https://github.com/DanMolefe/Tweet-Sentiment-Analysis)  
 ## Certificates ##
 
 - MIT Professional Education (completed in April 2024) 
