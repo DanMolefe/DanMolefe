@@ -11,7 +11,10 @@ A results-driven professional with over 15 years of experience in data managemen
   
 - Rain fall prediction (https://github.com/DanMolefe/Rain-fall-prediction?tab=readme-ov-file#rain-fall-prediction)
 
-- Tweets sentiment analysis (https://github.com/DanMolefe/Tweet-Sentiment-Analysis)  
+- Tweets sentiment analysis (https://github.com/DanMolefe/Tweet-Sentiment-Analysis)
+
+- Groceries basket optimization (https://github.com/DanMolefe/Market-basket-optimization/blob/main)
+
 ## Certificates ##
 
 - MIT Professional Education (completed in April 2024) 
