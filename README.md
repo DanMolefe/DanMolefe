@@ -15,6 +15,8 @@ A results-driven professional with over 15 years of experience in data managemen
 
 - Groceries basket optimization (https://github.com/DanMolefe/Market-basket-optimization/blob/main)
 
+- Password management tool (https://github.com/DanMolefe/Password-Management)
+  
 ## Certificates ##
 
 - MIT Professional Education (completed in April 2024) 
